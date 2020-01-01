@@ -5,7 +5,7 @@ module.exports.hello = async event => {
     statusCode: 200,
     body: JSON.stringify(
       {
-        message: "This is a PR deploy preview",
+        message: "This is a PR deploy preview!",
         input: event
       },
       null,
