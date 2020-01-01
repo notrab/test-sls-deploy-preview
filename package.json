@@ -1,0 +1,23 @@
+{
+  "name": "test-sls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-domain-manager": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notrab/test-sls-deploy-preview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notrab/test-sls-deploy-preview/issues"
+  },
+  "homepage": "https://github.com/notrab/test-sls-deploy-preview#readme"
+}
