@@ -13,7 +13,7 @@
 
 service: test-sls-deploy-preview
 # app and org for use with dashboard.serverless.com
-#app: your-app-name
+app: test-sls
 org: cartql
 
 # You can pin your service to only deploy with a specific Serverless version
